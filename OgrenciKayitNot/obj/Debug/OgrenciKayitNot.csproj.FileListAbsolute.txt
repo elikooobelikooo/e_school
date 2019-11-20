@@ -1,0 +1,15 @@
+D:\ELmir ssd alanda\desktop dakilar\Murat book\OgrenciKayitNot\OgrenciKayitNot\bin\Debug\OgrenciKayitNot.exe.config
+D:\ELmir ssd alanda\desktop dakilar\Murat book\OgrenciKayitNot\OgrenciKayitNot\bin\Debug\OgrenciKayitNot.exe
+D:\ELmir ssd alanda\desktop dakilar\Murat book\OgrenciKayitNot\OgrenciKayitNot\bin\Debug\OgrenciKayitNot.pdb
+D:\ELmir ssd alanda\desktop dakilar\Murat book\OgrenciKayitNot\OgrenciKayitNot\obj\Debug\OgrenciKayitNot.csprojAssemblyReference.cache
+D:\ELmir ssd alanda\desktop dakilar\Murat book\OgrenciKayitNot\OgrenciKayitNot\obj\Debug\OgrenciKayitNot.Form1.resources
+D:\ELmir ssd alanda\desktop dakilar\Murat book\OgrenciKayitNot\OgrenciKayitNot\obj\Debug\OgrenciKayitNot.Properties.Resources.resources
+D:\ELmir ssd alanda\desktop dakilar\Murat book\OgrenciKayitNot\OgrenciKayitNot\obj\Debug\OgrenciKayitNot.csproj.GenerateResource.cache
+D:\ELmir ssd alanda\desktop dakilar\Murat book\OgrenciKayitNot\OgrenciKayitNot\obj\Debug\OgrenciKayitNot.exe
+D:\ELmir ssd alanda\desktop dakilar\Murat book\OgrenciKayitNot\OgrenciKayitNot\obj\Debug\OgrenciKayitNot.pdb
+D:\ELmir ssd alanda\desktop dakilar\Murat book\OgrenciKayitNot\OgrenciKayitNot\obj\Debug\OgrenciKayitNot.FrmOgretmen.resources
+D:\ELmir ssd alanda\desktop dakilar\Murat book\OgrenciKayitNot\OgrenciKayitNot\obj\Debug\OgrenciKayitNot.DuyuruFormu.resources
+D:\ELmir ssd alanda\desktop dakilar\Murat book\OgrenciKayitNot\OgrenciKayitNot\obj\Debug\OgrenciKayitNot.frmDuyurular.resources
+D:\ELmir ssd alanda\desktop dakilar\Murat book\OgrenciKayitNot\OgrenciKayitNot\obj\Debug\OgrenciKayitNot.FrmMesajlar.resources
+D:\ELmir ssd alanda\desktop dakilar\Murat book\OgrenciKayitNot\OgrenciKayitNot\obj\Debug\OgrenciKayitNot.FrmOgrenci.resources
+D:\ELmir ssd alanda\desktop dakilar\Murat book\OgrenciKayitNot\OgrenciKayitNot\obj\Debug\OgrenciKayitNot.FrmOgreniForgotPassword.resources
